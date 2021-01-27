@@ -1,0 +1,13 @@
+{
+  "name": "flexbox-assignments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Satyam Bansal <satyam@pesto.tech>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
